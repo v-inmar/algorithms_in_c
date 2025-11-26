@@ -1,7 +1,7 @@
 # Bubble Sort 
 *Note: Definition, Explanation and Pseudo Code are lifted from ChatGPT*
 
-A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The algorithm gets its name because smaller elements "bubble" to the top of the list while larger elements "sink" to the bottom.
+A simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. The algorithm gets its name because larger elements "bubble" to the top of the list while smaller elements "sink" to the bottom.
 
 
 ## Explanation
