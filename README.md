@@ -12,7 +12,7 @@ A very simple searching algorithm where the space gets traversed once and compar
 
 ## Pseudo Code
 ```
-BubbleSort(arr, s)
+LinearSearch(arr, s)
     n = length of arr
     for i = 0 to n-1
         if arr[i] == s
