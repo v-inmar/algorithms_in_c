@@ -29,9 +29,12 @@ gcc -Wall -w main.c -o main
 
 ## Result
 ```
-Max Bytes: 28
+Max Bytes: 40
 Element Bytes: 4
-Number of elements in the array: 7
-[ 64 34 25 12 90 22 11 ]
-[ 11 12 22 25 34 64 90 ]
+Number of elements in the array: 10
+The search space: [ 23 56 1 2 45 78 34 89 101 67 ]
+Search value: 78
+Index is 5
+Search value: 500
+Index is -1
 ```
